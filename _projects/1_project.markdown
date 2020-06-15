@@ -1,55 +1,12 @@
 ---
 layout: page
-title: Project 1
-description: a project with a background image
-img: /assets/img/12.jpg
+title: EMGW
+description: Electro-Magnetic follow-up of Gravitational-Wave events in Radio
+img: /assets/img/kilonova.png
 ---
 
-Every project has a beautiful feature shocase page. It's easy to include images, in a flexible 3-column grid format. Make your photos 1/3, 2/3, or full width.
+Gravitational waves, a new way to probe the universe, were first predicted by Albert Einstein in [1916](https://ui.adsabs.harvard.edu/abs/1916SPAW.......688E/abstract). It took nearly a 100 years, for us to detect them for the first time and finally in [2015](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.116.061102), a merger of two black holes was detected by the Light Interferometer Gravitational-Wave Observatory ([LIGO](https://www.ligo.org/)) detectors in Livingston, Louisiana and Hanford, Washington, USA. The [2017 Nobel Prize in Physics](https://www.nobelprize.org/prizes/physics/2017/summary/) was awarded to Rainer Weiss, Barry C. Barish and Kip S. Thorne for contributions to building the LIGO detectors and for the detection of gravitational waves.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+Since this first discovery, three observing runs have been completed as of 27 March 2020 17:00 UTC, with many compact object mergers being discovered, most of which are binary black hole mergers. [GW170817](https://www.ligo.org/detections/GW170817.php), the first binary neutron star merger to be “heard” by LIGO and “seen” by various electromagneic instruments came as a welcome surprise for the community and has put multi-messenger astronomy on the forefront. I had worked on trying to localise this source in the X-ray using the Cadmium Zinc Telluride Imager ([CZTI](https://www.isro.gov.in/astrosat/cadmium-zinc-telluride-imager-czti)) onboard the Indian multi-wavelength astronomy satellite, [AstroSat](https://www.isro.gov.in/astrosat-0).
 
-    ---
-    layout: page
-    title: Project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-
-<div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/3.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/5.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
-
-
-<div class="img_row">
-    <img class="col two left" src="{{ site.baseurl }}/assets/img/6.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/11.jpg" alt="" title="example image"/>
-</div>
-<div class="col three caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-<br/><br/>
-
-
-The code is simple. Just add a col class to your image, and another class specifying the width: one, two, or three columns wide. Here's the code for the last row of images above:
-
-<div class="img_row">
-    <img class="col two left" src="/img/6.jpg"/>
-    <img class="col one left" src="/img/11.jpg"/>
-</div>
+I am currently working on late time follow-up of radio emission from GW170817 with the Jansky Very Large Array ([VLA](http://www.vla.nrao.edu/)). As a part of the Jansky VLA mapping of Gravitational Wave bursts as Afterglows in Radio ([JAGWAR](http://www.tauceti.caltech.edu/jagwar/)) collaboration, formed to improve chances of discovering radio counterparts with the VLA, I have worked on radio follow-up some of the [LIGO O3 candidates](https://gracedb.ligo.org/superevents/public/O3/).

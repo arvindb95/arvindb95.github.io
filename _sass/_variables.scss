@@ -70,10 +70,11 @@ $darken-2:          rgba(#000,.125) !default;
 $darken-3:          rgba(#000,.25) !default;
 $darken-4:          rgba(#000,.5) !default;
 
-$theme-color:       $purple;
+$theme-color:       #05aac0;
 $code-color:        $dark-gray;
-$text-color:        $mid-gray;
-$background-color:  white;
+$text-color:        #ffa726;
+$background-color:  #29353b;
+$content-color:     #a6b0b4;
 
 // Links
 $link-color:        $theme-color;
@@ -141,6 +142,8 @@ $hljs-chunk: $light-gray;
 
 // Header
 $nav-height: 56px;
+$header-background-color: #222d32;
+$dark-border: darken($header-background-color, 5%);
 
 // Footer
 $footer-border-top: thin solid $grey-color-dark;

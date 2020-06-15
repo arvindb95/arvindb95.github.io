@@ -1,6 +1,6 @@
 .site-header {
-    border-bottom: 1px solid $grey-color-light;
-    background-color: #fff;
+    border-bottom: 1px solid $header-background-color;
+    background-color: $header-background-color;
     opacity: 0.95;
     position:fixed;
     left:calc((100vw - 100%)/2);
@@ -89,7 +89,7 @@
     }
 }
 
-.header-bar{
+.header-bar{	
     border-bottom: 1px solid $light-gray;
     font-size: 20px;
     display: block;

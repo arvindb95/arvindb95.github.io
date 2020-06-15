@@ -20,6 +20,7 @@ em img {
 }
 
 body {
+    background-color: $background-color;
           box-sizing: border-box;
      -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -33,4 +34,15 @@ body {
     padding-right: $horizontal-spacing-unit;
     padding-left: $horizontal-spacing-unit;
     @extend .clearfix;
+}
+body::-webkit-scrollbar {
+  width: 12px;               /* width of the entire scrollbar */
+}
+body::-webkit-scrollbar-track {
+  background: $header-background-color;        /* color of the tracking area */
+}
+body::-webkit-scrollbar-thumb {
+  background-color: $theme-color;    /* color of the scroll thumb */
+  border-radius: 20px;       /* roundness of the scroll thumb */
+  border: 3px $text-color;  /* creates padding around scroll thumb */
 }

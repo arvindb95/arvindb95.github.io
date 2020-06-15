@@ -1,8 +1,9 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+order: 1
+description: A brief overview of my research. Feel free to click on the thumbnails below and read more about them!
 ---
 
 {% for project in site.projects %}
