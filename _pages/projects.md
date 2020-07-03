@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 permalink: /projects/
 order: 1
 description: A brief overview of my research. Feel free to click on the thumbnails below and read more about them!
@@ -21,6 +21,8 @@ description: A brief overview of my research. Feel free to click on the thumbnai
             <h1>{{ project.title }}</h1>
             <br/>
             <p>{{ project.description }}</p>
+	    <br/>
+	    <p>Thumbnail credit : {{ project.imgcite }}</p>
         </span>
         </a>
     </div>
@@ -39,6 +41,10 @@ description: A brief overview of my research. Feel free to click on the thumbnai
             <h1>{{ project.title }}</h1>
             <br/>
             <p>{{ project.description }}</p>
+            <br/>
+	    {% if project.imgcite %}
+            <p style="font-size:smaller;">Thumbnail credit : {{ project.imgcite }}</p>
+	    {% endif %}
         </span>
         </a>
     </div>

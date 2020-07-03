@@ -20,7 +20,7 @@ I am a graduate student working with [Dr. Alessandra Corsi](http://www.depts.ttu
 - merging compact objects like neutron stars and black holes
 - supernovae and their remnants
 
-You can read more about my research in [Projects](../projects).
+You can read more about my research projects in [Research](../projects).
 
 I worked on localising transients using the Cadmium Zinc Telluride Imager on board AstroSat for my [Masters Thesis](../projects/4_project).
 

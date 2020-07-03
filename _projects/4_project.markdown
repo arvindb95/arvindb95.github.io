@@ -1,8 +1,17 @@
 ---
 layout: page
-title: GRB localisation using CZTI
-description: My Masters Thesis
-img: /assets/img/thesis_bkg.png
-redirect: /assets/pdf/Arvind_MS_Thesis_Final_Draft.pdf 
+title: More coming soon....
+description: 
+img:
 ---
+
+<div class="row">
+    <div class="center">
+        <img style="border-radius:5px;" src="{{ '/assets/img/astronomy_xkcd.png' | relative_url }}" alt="" title=""/>
+    </div>
+</div>
+<div class="caption">
+    <a href="https://xkcd.com/1522/">https://xkcd.com/1522/</a>
+</div>
+
 

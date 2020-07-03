@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Curve fitting with MCMC
-description: 
-img: /assets/img/MCMC_bkg.png 
+title: Transient localisation using CZTI
+description: My Masters Thesis
+img: /assets/img/Astrosat.png
 ---
+
 
