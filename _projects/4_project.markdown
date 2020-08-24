@@ -2,7 +2,7 @@
 layout: page
 title: More coming soon....
 description: 
-img:
+img: /assets/img/more_bkg.png 
 ---
 
 <div class="row">

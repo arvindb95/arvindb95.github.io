@@ -27,8 +27,8 @@ body {
 }
 
 .wrapper {
-    max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));
-    max-width:         calc(800px - (#{$horizontal-spacing-unit} * 2));
+    /*max-width: -webkit-calc(800px - (#{$horizontal-spacing-unit} * 2));*/
+    max-width: calc(1200px - (#{$horizontal-spacing-unit} * 2));
     margin-right: auto;
     margin-left: auto;
     padding-right: $horizontal-spacing-unit;
@@ -42,7 +42,7 @@ body::-webkit-scrollbar-track {
   background: $header-background-color;        /* color of the tracking area */
 }
 body::-webkit-scrollbar-thumb {
-  background-color: $theme-color;    /* color of the scroll thumb */
+  background-color: $text-color;    /* color of the scroll thumb */
   border-radius: 20px;       /* roundness of the scroll thumb */
   border: 3px $text-color;  /* creates padding around scroll thumb */
 }

@@ -22,7 +22,9 @@ description: A brief overview of my research. Feel free to click on the thumbnai
             <br/>
             <p>{{ project.description }}</p>
 	    <br/>
-	    <p>Thumbnail credit : {{ project.imgcite }}</p>
+            {% if project.imgcite %}
+	    <p style="font-size:smaller;">Thumbnail credit : {{ project.imgcite }}</p>
+	    {% endif %}
         </span>
         </a>
     </div>
@@ -41,7 +43,7 @@ description: A brief overview of my research. Feel free to click on the thumbnai
             <h1>{{ project.title }}</h1>
             <br/>
             <p>{{ project.description }}</p>
-            <br/>
+            <br/>	
 	    {% if project.imgcite %}
             <p style="font-size:smaller;">Thumbnail credit : {{ project.imgcite }}</p>
 	    {% endif %}
