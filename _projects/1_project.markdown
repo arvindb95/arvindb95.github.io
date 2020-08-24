@@ -10,7 +10,7 @@ Gravitational waves, a new way to probe the universe, were first predicted by Al
 
 <div class="row">
     <div class="center">
-        <img style="border-radius:7px;" src="{{ '/assets/img/ligo20160211d.jpg' | relative_url }}" alt="" title="ligo20160211d"/>
+        <img style="border-radius:7px;" width="80%" src="{{ '/assets/img/ligo20160211d.jpg' | relative_url }}" alt="" title="ligo20160211d"/>
     </div>
 </div>
 <div class="caption">
@@ -21,7 +21,7 @@ Since this first discovery, three observing runs have been completed as of 27 Ma
 
 <div class="row">
     <div class="center">
-        <img style="border-radius:7px;" src="{{ '/assets/img/MassPlot_graveyard_190814.jpg' | relative_url }}" alt="" title="MassPlot_graveyard"/>
+        <img style="border-radius:7px;" width="80%" src="{{ '/assets/img/MassPlot_graveyard_190814.jpg' | relative_url }}" alt="" title="MassPlot_graveyard"/>
     </div>
 </div>
 <div class="caption">
