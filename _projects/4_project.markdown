@@ -7,7 +7,7 @@ img: /assets/img/more_bkg.png
 
 <div class="row">
     <div class="center">
-        <img style="border-radius:5px;" src="{{ '/assets/img/astronomy_xkcd.png' | relative_url }}" alt="" title=""/>
+        <img style="border-radius:5px;" width="90%" src="{{ '/assets/img/astronomy_xkcd.png' | relative_url }}" alt="" title=""/>
     </div>
 </div>
 <div class="caption">

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Supernova Afterglow
-description: Radio emission from Supernova remnants
+description: Radio emission from supernova remnants
 img: /assets/img/crab_remnant.jpg
 imgcite: NRAO/AUI/NSF
 ---
@@ -16,4 +16,5 @@ A Supernova is the explosive death of massive stars. A simplistic view of the pr
 <div class="caption">
     Classifying Supernovae. Image from <a href="https://astrobites.org/2016/12/02/classifying-supernovae/">https://astrobites.org/2016/12/02/classifying-supernovae/</a>
 </div>
-<br/> 
+<br/>
+I am currently working on afterglow emission from supernova ejecta in the radio bands. This emission can be free-free emission (emission from electrons accelerated by ions in a hot plasma) or synchrotron (relativistic electrons in magnetic fields). Study of these remnants in the radio can provide insights into mass loss history and other important physics of the progenitor.
