@@ -22,5 +22,5 @@ I am a graduate student working with [Dr. Alessandra Corsi](http://www.depts.ttu
 
 You can read more about my research projects in [Research](../projects).
 
-I worked on localising transients using the Cadmium Zinc Telluride Imager on board AstroSat for my [Masters Thesis](../projects/4_project).
+I worked on localising transients using the Cadmium Zinc Telluride Imager on board AstroSat for my [Masters Thesis](../projects/3_project).
 
